@@ -6,7 +6,7 @@ void main(){
     for (int 1=0;int i<11){
         contatore=1;
         cout<<contatore<<endl;
-        cout<"<conflitto"<<endl;
+        cout<"Voglio creare un conflitto"<<endl;
         }
         system ("pause");
         }
