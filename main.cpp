@@ -7,6 +7,9 @@ void main(){
         contatore=1;
         cout<<contatore<<endl;
         cout<"Voglio creare un conflitto"<<endl;
+        conflito
+        --- 
+        conflitto
         }
         system ("pause");
         }
